@@ -1,6 +1,6 @@
 # shared/guides: TlbxGuides
 
-GuideGuide-style guides and grids for PartPriced Tools apps (PhotoTLBX, Vector Editor). Classic scripts, no build, no dependencies (TlbxUI is used for menus/prompts when present). Exposes `window.TlbxGuides`.
+GuideGuide-style guides and grids for PartPriced Tools apps (Image Editor, Vector Editor). Classic scripts, no build, no dependencies (TlbxUI is used for menus/prompts when present). Exposes `window.TlbxGuides`.
 
 Load in this order:
 ```html
