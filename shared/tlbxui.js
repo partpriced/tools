@@ -1,4 +1,4 @@
-/* TlbxUI: the shared dialog / toast / menu kit for PartPriced Tools apps (PhotoTLBX, Vector Editor, PDF Editor).
+/* TlbxUI: the shared dialog / toast / menu kit for PartPriced Tools apps (Image Editor, Vector Editor, PDF Editor).
  * Classic script, no dependencies. Exposes window.TlbxUI.
  * Theming: set --sui-* custom properties (see tlbxui.css); it falls back to each app's own tokens. */
 (function () {
