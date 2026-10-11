@@ -1,0 +1,36 @@
+FONTLOG for the PartPriced font family
+
+Basic Font Information
+----------------------
+
+PartPriced is the type family of PartPriced Tools: a grotesk sans and a mono for prices, part numbers and tables, made from open-source (SIL OFL) fonts. Tabular figures and a slashed zero by default, square dots on i and j in the mono.
+
+Version 1.000. Licensed under the SIL Open Font License 1.1 (OFL.txt).
+
+Styles and their sources
+------------------------
+
+- PartPriced Sans: modified from Archivo (Copyright 2020 The Archivo Project Authors (https://github.com/Omnibus-Type/Archivo)).
+    Axes: wdth fixed at 100, wght 300-900.
+    Upstream alternates made the default: tnum, zero.
+    The dots of i and j redrawn: square.
+    ss01: Proportional figures.
+    ss02: Plain zero.
+    Renamed (OFL 1.1); kerning, marks and the other kept features as upstream.
+- PartPriced Mono: modified from JetBrains Mono (Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)).
+    Axes: wght 400-800.
+    Upstream alternates made the default: zero.
+    The dots of i and j redrawn: square.
+    ss01: Plain zero.
+    ss02: Round dots.
+    Renamed (OFL 1.1); kerning, marks and the other kept features as upstream.
+
+Changelog
+---------
+
+- 1.000 (2026-10-25): the first release: Sans and Mono.
+
+Acknowledgements
+----------------
+
+The upstream designers: JetBrains, Philipp Nurullin, Konstantin Bulenkov; Omnibus-Type.
