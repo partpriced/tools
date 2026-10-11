@@ -46,6 +46,7 @@
       it('view.safe'), it('view.quality'), '-',
       { label: 'Theme', sub: A.THEMES.map(([t]) => it('view.theme.' + t, C.get('view.theme.' + t).title.replace('Theme: ', ''))) }
     ],
+    Layout: () => (window.TlbxLayouts ? TlbxLayouts.menu('videostudio') : []),
     Help: () => [
       it('help.search'), it('help.keys'), it('help.about'), '-',
       { label: 'PartPriced Tools home', act: () => { location.href = SE.offline ? 'https://tools.partpriced.com/' : '../'; } }
