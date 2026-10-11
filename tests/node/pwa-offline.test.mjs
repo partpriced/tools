@@ -61,7 +61,7 @@ test('the homepage and Files open offline after the service worker has precached
 
   await page.goto(base + '/');
   await page.waitForSelector('.app-card', { timeout: 20000 });
-  assert.equal(await page.title(), 'PartPriced Tools: office software in your browser');
+  assert.equal(await page.title(), 'PartPriced Tools: business and office tools in your browser');
 
   await page.goto(base + '/drive/');
   await page.waitForSelector('body.ready', { timeout: 30000 });
