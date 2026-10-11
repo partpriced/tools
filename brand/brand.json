@@ -1,0 +1,54 @@
+{
+  "name": "PartPriced Tools",
+  "tagline": "Business and office tools that run in your browser. Your files stay on your device.",
+  "logo": "brand/mark.svg",
+  "home": "/",
+  "colors": {
+    "ink": "#0f172a",
+    "paper": "#f8fafc",
+    "accent": "#2563eb"
+  },
+  "footer": "© 2026 PartPriced. All rights reserved.",
+  "links": {
+    "patreon": "",
+    "support": "",
+    "reddit": "",
+    "x": "",
+    "tiktok": "",
+    "gumroad": "",
+    "github": ""
+  },
+  "appOrder": [
+    "imageeditor",
+    "vector",
+    "pdf",
+    "label",
+    "cutout",
+    "clean",
+    "ai",
+    "docs",
+    "tables",
+    "slides",
+    "press",
+    "remix",
+    "videoedit",
+    "contacts",
+    "inventory",
+    "orders",
+    "invoices",
+    "convert",
+    "crm",
+    "ledger",
+    "admin",
+    "drive",
+    "code",
+    "gallery",
+    "3d",
+    "music"
+  ],
+  "support": {
+    "exportCard": false,
+    "donate": false,
+    "ads": false
+  }
+}
