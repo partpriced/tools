@@ -48,7 +48,8 @@
     ],
     Layout: () => (window.TlbxLayouts ? TlbxLayouts.menu('videostudio') : []),
     Help: () => [
-      it('help.search'), it('help.keys'), it('help.about'), '-',
+      it('help.search'), it('help.keys'), it('help.about'),
+      { label: 'AI agents…', act: () => window.TlbxAgents && TlbxAgents.about(), disabled: !window.TlbxAgents }, '-',
       { label: 'PartPriced Tools home', act: () => { location.href = SE.offline ? 'https://tools.partpriced.com/' : '../'; } }
     ]
   };
