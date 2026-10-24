@@ -25,6 +25,7 @@
   <url><loc>https://tools.partpriced.com/inventory/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/orders/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/quotes/</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://tools.partpriced.com/purchases/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/timesheets/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/expenses/</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://tools.partpriced.com/invoices/</loc><lastmod>2026-10-20</lastmod></url>
@@ -61,6 +62,7 @@
   <url><loc>https://tools.partpriced.com/bgremover/about/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/orders/about/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/quotes/about/</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://tools.partpriced.com/purchases/about/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/timesheets/about/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/expenses/about/</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://tools.partpriced.com/invoices/about/</loc><lastmod>2026-10-20</lastmod></url>
@@ -93,6 +95,7 @@
   <url><loc>https://tools.partpriced.com/apps/inventory/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/orders/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/quotes/</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://tools.partpriced.com/apps/purchases/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/timesheets/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/expenses/</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/invoices/</loc><lastmod>2026-10-20</lastmod></url>
