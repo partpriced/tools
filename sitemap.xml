@@ -37,11 +37,14 @@
   <url><loc>https://tools.partpriced.com/hex/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/eml/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/checksum/</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://tools.partpriced.com/diff/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/nodes/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/serials/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/transcribe/</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://tools.partpriced.com/recorder/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/signature/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/qr/</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://tools.partpriced.com/colors/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/workflows/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/convert/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/calculator/</loc><lastmod>2026-10-20</lastmod></url>
@@ -113,11 +116,14 @@
   <url><loc>https://tools.partpriced.com/apps/hex/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/eml/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/checksum/</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://tools.partpriced.com/apps/diff/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/nodes/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/serials/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/transcribe/</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://tools.partpriced.com/apps/recorder/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/signature/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/qr/</loc><lastmod>2026-10-20</lastmod></url>
+  <url><loc>https://tools.partpriced.com/apps/colors/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/workflows/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/convert/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/calculator/</loc><lastmod>2026-10-20</lastmod></url>
@@ -321,6 +327,18 @@
   <url><loc>https://tools.partpriced.com/gallery/raw-photo-viewer/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/convert/dng-converter/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/resize/resize-raw-photos/</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://tools.partpriced.com/diff/compare-text/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/diff/compare-pdf/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/diff/compare-images/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/diff/json-csv-diff/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/recorder/screen-recorder-with-webcam/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/recorder/record-screen-with-audio/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/recorder/loom-alternative/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/recorder/webcam-recorder/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/colors/contrast-checker/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/colors/color-picker-from-image/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/colors/color-palette-generator/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/colors/hex-to-rgb/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/imageeditor/getting-started/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/imageeditor/layers/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/imageeditor/classic/getting-started/</loc><lastmod>2026-10-24</lastmod></url>
@@ -380,6 +398,9 @@
   <url><loc>https://tools.partpriced.com/music/getting-started/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/remix/getting-started/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/videostudio/getting-started/</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://tools.partpriced.com/diff/getting-started/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/recorder/getting-started/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/colors/getting-started/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/all-tools/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/best/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/best/free-online-photo-editors/</loc><lastmod>2026-10-24</lastmod></url>
@@ -416,6 +437,9 @@
   <url><loc>https://tools.partpriced.com/best/free-email-signature-generators/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/best/free-to-do-list-apps/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/best/free-time-zone-converters/</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://tools.partpriced.com/best/free-diff-tools/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/best/free-screen-recorders/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/best/free-color-palette-tools/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/how-it-works/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/convert/csv-to-vcf/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/convert/xlsx-to-vcf/</loc><lastmod>2026-10-20</lastmod></url>
