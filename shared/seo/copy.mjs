@@ -7,8 +7,9 @@
 import { CONVERT_PAGES } from './convert-copy.mjs';
 
 export const HOME = {
-  title: 'PartPriced Tools: business and office tools in your browser',
-  description: 'PDF editor, image editor, documents, spreadsheets, invoices and more. Runs in your browser; your files stay on your device. Free, no accounts.',
+  // A brand profile can set its own (seo.homeTitle, seo.homeDescription; tools/whitelabel/build.mjs writes them here).
+  title: /*profile:seoHomeTitle*/'PartPriced Tools: business and office tools in your browser',
+  description: /*profile:seoHomeDescription*/'PDF editor, image editor, documents, spreadsheets, invoices and more. Runs in your browser; your files stay on your device. Free, no accounts.',
 };
 
 export const APPS = {
