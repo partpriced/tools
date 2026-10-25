@@ -45,6 +45,7 @@
   <url><loc>https://tools.partpriced.com/signature/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/qr/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/colors/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/fontcreator/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/workflows/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/convert/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/calculator/</loc><lastmod>2026-10-20</lastmod></url>
@@ -124,6 +125,7 @@
   <url><loc>https://tools.partpriced.com/apps/signature/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/qr/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/colors/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/apps/fontcreator/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/workflows/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/convert/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://tools.partpriced.com/apps/calculator/</loc><lastmod>2026-10-20</lastmod></url>
@@ -339,6 +341,10 @@
   <url><loc>https://tools.partpriced.com/colors/color-picker-from-image/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/colors/color-palette-generator/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/colors/hex-to-rgb/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/fontcreator/free-font-maker/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/fontcreator/handwriting-font/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/fontcreator/fontforge-alternative/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/fontcreator/ttf-to-woff2/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/imageeditor/getting-started/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/imageeditor/layers/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/imageeditor/classic/getting-started/</loc><lastmod>2026-10-24</lastmod></url>
@@ -401,6 +407,7 @@
   <url><loc>https://tools.partpriced.com/diff/getting-started/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/recorder/getting-started/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/colors/getting-started/</loc><lastmod>2026-10-25</lastmod></url>
+  <url><loc>https://tools.partpriced.com/fontcreator/getting-started/</loc><lastmod>2026-10-25</lastmod></url>
   <url><loc>https://tools.partpriced.com/all-tools/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/best/</loc><lastmod>2026-10-24</lastmod></url>
   <url><loc>https://tools.partpriced.com/best/free-online-photo-editors/</loc><lastmod>2026-10-24</lastmod></url>
