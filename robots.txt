@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://tools.partpriced.com/sitemap.xml
+Sitemap: https://tools.partpriced.com/sitemap-index.xml
