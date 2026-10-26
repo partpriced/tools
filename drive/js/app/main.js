@@ -21,7 +21,7 @@
     else if (!list.length) pane.append(DR.emptyState(S.query.trim() || S.tag || S.kind !== 'all' ? 'search' : S.section === 'folder' ? 'folder' : S.section));
     else DR.renderFiles(pane, list, view);
     pane.scrollTop = keep;
-    document.title = (S.section === 'folder' && !S.cwd ? '' : DR.placeName() + ' — ') + DR.rootName() + ' — PartPriced Tools';
+    document.title = (S.section === 'folder' && !S.cwd ? '' : DR.placeName() + ' — ') + 'Files — PartPriced Tools';
     DR.renderSelbar(); DR.renderStatus(); DR.renderInfo(); meter();
     DR.syncUrl();
   };
