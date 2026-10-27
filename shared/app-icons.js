@@ -13,8 +13,8 @@
 (function () {
   'use strict';
   /* the helper's lime and ink (see shared/buddy/look.js). */
-  const HELPBOT_LIME = '#e7efff';
-  const HELPBOT_INK = '#000f2f';
+  const HELPBOT_LIME = '#ffeae8';
+  const HELPBOT_INK = '#290300';
   /** The badge: a rounded Helpbot-coloured tile with a small shine, and the glyph drawn in ink on top. */
   function badge(glyph, colour = HELPBOT_LIME) {
     return '<rect x="2" y="2" width="44" height="44" rx="12" fill="' + colour + '"/>' +

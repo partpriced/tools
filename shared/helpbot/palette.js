@@ -1,7 +1,7 @@
 // Helper palette: body colours and the small colour/maths helpers every part shares.
 
 export const BODIES = {
-  lime:      { hi: '#f5f8ff', base: '#cad9fb', lo: '#3877ff', iris: '#2d6fff', rim: '#eff4ff' },
+  lime:      { hi: '#fff6f5', base: '#fbcfcb', lo: '#fd1100', iris: '#f21000', rim: '#fff1f0' },
   pink:      { hi: '#ffe3ee', base: '#ff8fb8', lo: '#c2457a', iris: '#b0306a', rim: '#ffd0e2' },
   sky:       { hi: '#e3f6ff', base: '#5cc8ff', lo: '#1f78b8', iris: '#1d6fb0', rim: '#c4ecff' },
   grape:     { hi: '#f0e3ff', base: '#a86bff', lo: '#5b2fb0', iris: '#6a35c9', rim: '#dcc4ff' },
@@ -12,7 +12,7 @@ export const BODIES = {
   gold:      { hi: '#fffbe0', base: '#ffd23f', lo: '#b88700', iris: '#a87400', rim: '#fff0a8' },
   chrome:    { hi: '#ffffff', base: '#d2d9e0', lo: '#5f6873', iris: '#3a4450', rim: '#ffffff' },
   ghost:     { hi: '#ffffff', base: '#eef3ff', lo: '#9fb0d0', iris: '#5a6c94', rim: '#ffffff', alpha: 0.72 },
-  void:      { hi: '#6d6d96', base: '#24243c', lo: '#08080f', iris: '#e7efff', rim: '#8f8fd0', glowEyes: true },
+  void:      { hi: '#617191', base: '#212631', lo: '#07090b', iris: '#ffeae8', rim: '#8895b0', glowEyes: true },
 };
 
 export const TAU = Math.PI * 2;

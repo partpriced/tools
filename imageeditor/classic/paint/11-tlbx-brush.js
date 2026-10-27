@@ -8,8 +8,8 @@ const { S, clearOverlay, discSpans, markDirty, mctx, octx, stamp } = P;
 /* =====================================================================
  * PartPriced brush (layered slime + animated drips)
  * ===================================================================== */
-const TLBX_PAL = { shadow: '#003cbf', body: '#9dbcff', shine: '#eff4ff' };
-const TLBX_DARK = { shadow: '#002064', body: '#004bec', shine: '#9dbcff' };
+const TLBX_PAL = { shadow: '#990a00', body: '#ffa59e', shine: '#fff1f0' };
+const TLBX_DARK = { shadow: '#530600', body: '#bd0d00', shine: '#ffa59e' };
 function tlbxStamp(x, y) {
   const st = P.st.tlbxStroke, pal = st.pal, d = S.tlbx, r = d / 2;
   const [sh, bo, sn] = st.X;

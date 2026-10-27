@@ -7,7 +7,7 @@
   var SP = window.SP, U = SP.util;
   var E = SP.engine = U.emitter();
 
-  E.COLORS = ['#d8e4fd', '#ff5fa2', '#38d6ff', '#ff9f1c', '#a98bff', '#2ee6a8', '#ffd23f', '#ff6b5a'];
+  E.COLORS = ['#fddcd9', '#ff5fa2', '#38d6ff', '#ff9f1c', '#a98bff', '#2ee6a8', '#ffd23f', '#ff6b5a'];
   E.files = new Map();
   E.assets = new Map();
   E.state = blank();

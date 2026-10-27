@@ -88,7 +88,7 @@ async function tlbxify(c) {
     const fs = clamp(Math.round(w / 40), 9, 18);
     x.font = `bold ${fs}px ${FONTS[0][1]}`; x.textAlign = 'right'; x.textBaseline = 'bottom';
     x.fillStyle = 'rgba(10,10,10,.55)'; x.fillText('certified tlbx · tools.partpriced.com', w - 3, hh - 2);
-    x.fillStyle = 'rgba(231, 239, 255,.95)'; x.fillText('certified tlbx · tools.partpriced.com', w - 4, hh - 3);
+    x.fillStyle = 'rgba(255, 234, 232,.95)'; x.fillText('certified tlbx · tools.partpriced.com', w - 4, hh - 3);
   }
   return out;
 }

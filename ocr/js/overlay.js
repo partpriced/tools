@@ -3,9 +3,9 @@
 
 function accent() {
   try {
-    return getComputedStyle(document.documentElement).getPropertyValue('--sl-accent').trim() || '#004ff9';
+    return getComputedStyle(document.documentElement).getPropertyValue('--sl-accent').trim() || '#c70d00';
   } catch (e) {
-    return '#004ff9';
+    return '#c70d00';
   }
 }
 

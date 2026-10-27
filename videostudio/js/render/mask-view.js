@@ -99,11 +99,11 @@
       }
     }
     if (P) {
-      og.strokeStyle = '#e7efff'; og.lineWidth = 1.5; og.setLineDash([4, 3]);
+      og.strokeStyle = '#ffeae8'; og.lineWidth = 1.5; og.setLineDash([4, 3]);
       const m = pendingMask(P);
       if (m) strokePolys(og, c, m);
       og.setLineDash([]);
-      if (P.kind === 'pen') { og.fillStyle = '#e7efff'; for (const q of P.pts) { const o = V.lOv(c, q); og.fillRect(o.x - 3, o.y - 3, 6, 6); } }
+      if (P.kind === 'pen') { og.fillStyle = '#ffeae8'; for (const q of P.pts) { const o = V.lOv(c, q); og.fillRect(o.x - 3, o.y - 3, 6, 6); } }
     }
     og.restore();
   };
