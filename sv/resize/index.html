@@ -45,7 +45,7 @@
     </div>
     <div class="rs-tools" role="toolbar" aria-label="Öppna" data-i18n-attr="aria-label:resize.app.open_bar">
       <button type="button" class="sui-btn" id="rs-open" data-i18n="resize.app.open">Öppna…</button>
-      <button type="button" class="sui-btn" id="rs-drive" data-i18n="resize.app.from_drive">Från Files…</button>
+      <button type="button" class="sui-btn" id="rs-drive" data-i18n="resize.app.from_drive">Från Filer…</button>
     </div>
   </header>
   <div class="rs-stat" id="rs-stat" aria-live="polite"></div>
@@ -56,7 +56,7 @@
       <section class="rs-empty" id="rs-empty" aria-label="Öppna filer" data-i18n-attr="aria-label:resize.app.open_files">
         <div class="rs-drop-card">
           <div id="rs-drop" class="rs-dropzone"></div>
-          <p class="rs-fine" data-i18n="resize.app.fine">Originalen ändras aldrig. Resultaten är kopior: ladda ned dem eller spara dem i mappen Resizer i Files. Tangenter: Ctrl+O öppna, Ctrl+Enter ändra storlek, Esc avbryt, Ctrl+S zip.</p>
+          <p class="rs-fine" data-i18n="resize.app.fine">Originalen ändras aldrig. Resultaten är kopior: ladda ned dem eller spara dem i mappen Resizer i Filer. Tangenter: Ctrl+O öppna, Ctrl+Enter ändra storlek, Esc avbryt, Ctrl+S zip.</p>
         </div>
       </section>
       <div id="rs-queue-wrap" hidden>
@@ -174,11 +174,11 @@
         <button type="button" class="sui-btn" id="rs-save-as" data-i18n="resize.panel.save_as">Spara som…</button>
         <button type="button" class="sui-btn" id="rs-delete" data-i18n="resize.panel.delete">Ta bort</button>
       </div>
-      <p class="rs-fine" data-i18n="resize.panel.saved_note">Sparas i Files, i mappen Resizer. Utan Files stannar de i den här webbläsaren.</p>
+      <p class="rs-fine" data-i18n="resize.panel.saved_note">Sparas i Filer, i mappen Resizer. Utan Filer stannar de i den här webbläsaren.</p>
       </div>
       <!-- the panel's buttons (app/layout.js puts them in its Results section and its foot; it sets their words) -->
       <button type="button" class="sui-btn" id="rs-zip" disabled title="En zip med alla resultat (Ctrl+S)" data-i18n-attr="title:resize.app.zip_tip">Download all (zip)</button>
-      <button type="button" class="sui-btn" id="rs-save-all" disabled title="Spara resultaten i mappen Resizer i Files" data-i18n-attr="title:resize.app.save_drive_tip">Save to Files</button>
+      <button type="button" class="sui-btn" id="rs-save-all" disabled title="Spara resultaten i mappen Resizer i Filer" data-i18n-attr="title:resize.app.save_drive_tip">Save to Files</button>
       <button type="button" class="sui-btn" id="rs-clear" disabled>Clear</button>
       <button type="button" class="sui-btn sui-primary" id="rs-run" disabled title="Ändra storlek på alla filer i listan (Ctrl+Enter)" data-i18n-attr="title:resize.app.run_tip">Resize</button>
       <button type="button" class="sui-btn" id="rs-cancel" hidden title="Stoppa efter den aktuella filen (Esc)" data-i18n="resize.app.cancel" data-i18n-attr="title:resize.app.cancel_tip">Avbryt</button>
