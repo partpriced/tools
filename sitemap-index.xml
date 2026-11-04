@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap><loc>https://tools.partpriced.com/sitemap.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-es.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-fr.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-de.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-pt-br.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-it.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-ar.xml</loc></sitemap>
   <sitemap><loc>https://tools.partpriced.com/sitemap-sv.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-zh-cn.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-zh-tw.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-ja.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-ko.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-ru.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-uk.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-pl.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-nl.xml</loc></sitemap>
-  <sitemap><loc>https://tools.partpriced.com/sitemap-tr.xml</loc></sitemap>
 </sitemapindex>
